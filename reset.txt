@@ -1,5 +1,6 @@
 checking the reset optn
 <<<<<<< HEAD
+
 line-22
 line-33
 line-44
@@ -7,6 +8,16 @@ line-55
 line-66
 =======
 >>>>>>> parent of d46dd02 (lline 22)
+<<<<<<< HEAD
 1
+<<<<<<< HEAD
 2
 3
+=======
+>>>>>>> parent of b6a6d4e (1)
+=======
+add chaanher revert
+>>>>>>> parent of fee1127 (2)
+
+
+finally
