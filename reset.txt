@@ -1,6 +1,9 @@
 checking the reset optn
+<<<<<<< HEAD
 line-22
 line-33
 line-44
 line-55
 line-66
+=======
+>>>>>>> parent of d46dd02 (lline 22)
